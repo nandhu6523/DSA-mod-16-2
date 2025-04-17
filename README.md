@@ -7,11 +7,11 @@ step 1:Start by defining a node class Node to represent AVL tree nodes.
 
 step 2:Define AVL tree class with methods:
 
-   a] insert for inserting nodes with balancing
+    a] insert for inserting nodes with balancing
 
-   b] leftRotate for performing left rotation
+    b] leftRotate for performing left rotation
 
-   c] getHeight, getBalance to assist balancing
+    c] getHeight, getBalance to assist balancing
 
 step 3:Create the tree with initial elements [13, 10, 15, 5, 11, 16].
 
@@ -103,7 +103,7 @@ class AVL_Tree(object):
 myTree = AVL_Tree()
 root = None
 
- # WRITE YOUR CODE HERE 
+ 
 n=int(input()) 
 root = myTree.insert(root, 13)
 root = myTree.insert(root, 10)
@@ -120,6 +120,10 @@ print("Preorder traversal of the constructed AVL tree is")
 myTree.preOrder(root)
 print()
 ```
+# OUTPUT:
+![image](https://github.com/user-attachments/assets/1a876b7c-48b4-48af-bbac-69e7a58646e6)
+
 
 # RESULT:
- Thus the implement of a left rotation operation in an AVL tree and insert a user-given value n into the tree, then display the AVL tree using preorder traversal was successfully executed.
+ Thus the implement of a left rotation operation in an AVL tree and insert a user-given value n
+into the tree, then display the AVL tree using preorder traversal was successfully executed.
