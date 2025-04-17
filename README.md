@@ -7,11 +7,11 @@ step 1:Start by defining a node class Node to represent AVL tree nodes.
 
 step 2:Define AVL tree class with methods:
 
-    a] insert for inserting nodes with balancing
+ a] insert for inserting nodes with balancing
 
-    b] leftRotate for performing left rotation
+ b] leftRotate for performing left rotation
 
-    c] getHeight, getBalance to assist balancing
+ c] getHeight, getBalance to assist balancing
 
 step 3:Create the tree with initial elements [13, 10, 15, 5, 11, 16].
 
