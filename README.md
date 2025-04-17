@@ -14,7 +14,9 @@ step 2:Define AVL tree class with methods:
    c] getHeight, getBalance to assist balancing
 
 step 3:Create the tree with initial elements [13, 10, 15, 5, 11, 16].
+
 step 4:Get value n from the user.
+
 step 5:Insert n into the AVL tree.
 
 step 6:Print the tree using preorder traversal.
