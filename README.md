@@ -1,4 +1,4 @@
-# Data Structures Using Python-16-2
+# Data Structures Using Python-mod-16-2
 # AIM:
  To implement a left rotation operation in an AVL tree and insert a user-given value n into the tree, then display the AVL tree using preorder traversal.
 # ALGORITHM:
